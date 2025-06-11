@@ -1,26 +1,24 @@
-# MushroomSquad
+<div align="center">
+  <img src="mushroom-banner.png" alt="MushroomSquad Banner" width="800"/>
+  
+  # 🍄 MushroomSquad: Python Web Artisans 🍄
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  
+  **Cultivating elegant web solutions with Python**
+</div>
 
-Kinoko no Mori | Python-powered web development
+## 🌱 Featured Project
 
----
+<div align="center">
+  
+### ✨ [puregen](https://github.com/MushroomSquad/puregen) ✨
+  
+Our flagship Python code generation tool designed to accelerate web development workflows.
+  
+</div>
 
-### Our Mission
-We create elegant, efficient Python tools and web solutions with a focus on developer experience and code quality.
-
-### Featured Project
-**puregen**: Our Python code generation library designed to streamline web application development and reduce boilerplate.
-
-```python
-# The MushroomSquad way
-from puregen import create_app
-
-app = create_app()
-# Start building something amazing
-```
-
-### Connect with us
-[Social links, contact information]
-
----
-
-_"Growing the future of Python web development."_
+## 🔮 Join Our Community
+Interested in contributing to puregen? Check out our [contribution guidelines](link)!
