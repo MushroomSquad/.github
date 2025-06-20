@@ -38,17 +38,21 @@ We're Python nerds who make web stuff. At **MushroomSquad**, we think good code 
   
 **⭐ Making Python development better, one project at a time ⭐**
 
+![GitHub followers](https://img.shields.io/github/followers/MushroomSquad?style=for-the-badge&color=409ba5&labelColor=1a1a1a)
+![GitHub User's stars](https://img.shields.io/github/stars/MushroomSquad?style=for-the-badge&color=409ba5&labelColor=1a1a1a)
+
 </div>
 
 <div align="center">
   
 ### 📈 Organization Activity
   
-[![Organization Activity Graph](http://ghchart.rshah.org/409ba5/MushroomSquad)](https://github.com/MushroomSquad)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MushroomSquad&bg_color=0D1117&color=409ba5&line=409ba5&point=58A6FF&area=true&hide_border=true)
   
-### 🏆 Repository Metrics
+### 🏆 Repository Highlights
   
-![Repobeats analytics image](https://repobeats.axiom.co/api/embed/4f89eb5a91b2c8de9acab96e2d4c394d5e104ee2.svg "Repobeats analytics image")
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MushroomSquad&repo=puregen&theme=dark&border_color=409ba5)](https://github.com/MushroomSquad/puregen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MushroomSquad&repo=pytsune&theme=dark&border_color=409ba5)](https://github.com/MushroomSquad/pytsune)
 
 ### 👥 Our Contributors
   
