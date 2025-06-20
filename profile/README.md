@@ -123,9 +123,18 @@ Aiogram template for Telegram bot development.
 [![Repositories](https://img.shields.io/badge/Browse_Repositories-2F3136?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/MushroomSquad/repositories)
 [![Projects](https://img.shields.io/badge/Organization_Projects-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/MushroomSquad/projects)
 
-### 📊 Languages we use most
+### 🔥 Organization metrics
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MushroomSquad&layout=compact&theme=dark&count_private=false&include_orgs=true)](https://github.com/MushroomSquad)
+[![Organization Profile Views](https://komarev.com/ghpvc/?username=MushroomSquad&style=flat-square&color=409ba5)](https://github.com/MushroomSquad)
+[![Years Badge](https://badges.pufler.dev/years/MushroomSquad?style=flat-square&color=409ba5)](https://github.com/MushroomSquad)
+[![Repos Badge](https://badges.pufler.dev/repos/MushroomSquad?style=flat-square&color=409ba5)](https://github.com/MushroomSquad)
+
+### 💻 Our tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
   
 </div>
 
