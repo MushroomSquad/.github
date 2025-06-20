@@ -32,15 +32,16 @@ We're Python nerds who make web stuff. At **MushroomSquad**, we think good code 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 📊 Our GitHub stats
+## 📊 Our team & contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MushroomSquad&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MushroomSquad&layout=compact&theme=dark" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MushroomSquad&layout=compact&theme=dark&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MushroomSquad&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://contrib.rocks/image?repo=MushroomSquad/puregen" alt="Contributors from puregen"/>
+  <img src="https://contrib.rocks/image?repo=MushroomSquad/sporelib" alt="Contributors from sporelib"/>
+  <img src="https://contrib.rocks/image?repo=MushroomSquad/mushcraft" alt="Contributors from mushcraft"/>
 </div>
 
 ## 🌱 Stuff we grow
@@ -72,13 +73,13 @@ Frontend bits with a mushroom look and feel.
 
 ---
 
-## 🍄 Random mushroom fact
+## 🍄 Fun mushroom fact
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/MushroomSquad/MushroomSquad/main/assets/mushroom-fact.svg" alt="Daily Mushroom Fact">
+  > *Did you know? Mushrooms are more closely related to animals than plants! They share a common ancestor and both lack chlorophyll.*
   
-  *We update this daily with GitHub Actions*
+  *Want to learn more? Check out our [mushroom facts collection](https://github.com/MushroomSquad/mushroom-facts)*
 </div>
 
 ## 📫 Talk to us
@@ -92,10 +93,16 @@ Frontend bits with a mushroom look and feel.
   
 </div>
 
-## 🌍 What we've been up to
+## 🌍 Organization activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MushroomSquad&theme=github-dark" alt="Activity Graph" width="850"/>
+  
+### 📈 Recent activity across our repos
+  
+[![Organization Activity](https://img.shields.io/badge/Check_Organization_Activity-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MushroomSquad)
+[![Repositories](https://img.shields.io/badge/Browse_Repositories-2F3136?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/MushroomSquad/repositories)
+[![Projects](https://img.shields.io/badge/Organization_Projects-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/MushroomSquad/projects)
+  
 </div>
 
 ## 🤝 Come code with us
