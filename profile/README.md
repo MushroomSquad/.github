@@ -35,13 +35,27 @@ We're Python nerds who make web stuff. At **MushroomSquad**, we think good code 
 ## 📊 Our team & contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MushroomSquad&layout=compact&theme=dark&langs_count=8" alt="Top Languages" height="170"/>
+  
+**⭐ Making Python development better, one project at a time ⭐**
+
 </div>
 
 <div align="center">
-  <img src="https://contrib.rocks/image?repo=MushroomSquad/puregen" alt="Contributors from puregen"/>
-  <img src="https://contrib.rocks/image?repo=MushroomSquad/sporelib" alt="Contributors from sporelib"/>
-  <img src="https://contrib.rocks/image?repo=MushroomSquad/mushcraft" alt="Contributors from mushcraft"/>
+  
+### 📈 Organization Activity
+  
+[![Organization Activity Graph](http://ghchart.rshah.org/409ba5/MushroomSquad)](https://github.com/MushroomSquad)
+  
+### 🏆 Repository Metrics
+  
+![Repobeats analytics image](https://repobeats.axiom.co/api/embed/4f89eb5a91b2c8de9acab96e2d4c394d5e104ee2.svg "Repobeats analytics image")
+
+### 👥 Our Contributors
+  
+<a href="https://github.com/MushroomSquad/puregen/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MushroomSquad/puregen" />
+</a>
+
 </div>
 
 ## 🌱 Stuff we grow
@@ -56,19 +70,19 @@ Our main tool that helps speed up Python coding for web projects.
 [![GitHub forks](https://img.shields.io/github/forks/MushroomSquad/puregen?style=social)](https://github.com/MushroomSquad/puregen/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/MushroomSquad/puregen)](https://github.com/MushroomSquad/puregen/issues)
 
-### 🔍 [sporelib](https://github.com/MushroomSquad/sporelib)
+### 🔧 [pytsune](https://github.com/MushroomSquad/pytsune)
 
-A bunch of Python tools we use over and over for web and data projects.
+Python tuning and optimization utilities.
 
-[![GitHub stars](https://img.shields.io/github/stars/MushroomSquad/sporelib?style=social)](https://github.com/MushroomSquad/sporelib/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/MushroomSquad/sporelib)](https://github.com/MushroomSquad/sporelib/issues)
+[![GitHub stars](https://img.shields.io/github/stars/MushroomSquad/pytsune?style=social)](https://github.com/MushroomSquad/pytsune/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/MushroomSquad/pytsune)](https://github.com/MushroomSquad/pytsune/issues)
 
-### 🚀 [mushcraft](https://github.com/MushroomSquad/mushcraft)
+### 🍭 [Lollipop](https://github.com/MushroomSquad/Lollipop)
 
-Frontend bits with a mushroom look and feel.
+Aiogram template for Telegram bot development.
 
-[![GitHub stars](https://img.shields.io/github/stars/MushroomSquad/mushcraft?style=social)](https://github.com/MushroomSquad/mushcraft/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/MushroomSquad/mushcraft)](https://github.com/MushroomSquad/mushcraft/issues)
+[![GitHub stars](https://img.shields.io/github/stars/MushroomSquad/Lollipop?style=social)](https://github.com/MushroomSquad/Lollipop/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/MushroomSquad/Lollipop)](https://github.com/MushroomSquad/Lollipop/issues)
 </div>
 
 ---
@@ -79,7 +93,7 @@ Frontend bits with a mushroom look and feel.
   
   > *Did you know? Mushrooms are more closely related to animals than plants! They share a common ancestor and both lack chlorophyll.*
   
-  *Want to learn more? Check out our [mushroom facts collection](https://github.com/MushroomSquad/mushroom-facts)*
+  *Fun fact: The largest living organism on Earth is actually a mushroom - an Armillaria fungus in Oregon that covers over 2,000 acres!*
 </div>
 
 ## 📫 Talk to us
@@ -93,15 +107,25 @@ Frontend bits with a mushroom look and feel.
   
 </div>
 
-## 🌍 Organization activity
+## 🌍 Organization insights
 
 <div align="center">
   
-### 📈 Recent activity across our repos
+### 📈 Quick stats
+  
+![GitHub Organization's followers](https://img.shields.io/github/followers/MushroomSquad?label=Follow%20%40MushroomSquad&style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/MushroomSquad?affiliations=OWNER&style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/MushroomSquad/puregen?style=social)
+
+### 🗂️ Browse our work
   
 [![Organization Activity](https://img.shields.io/badge/Check_Organization_Activity-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MushroomSquad)
 [![Repositories](https://img.shields.io/badge/Browse_Repositories-2F3136?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/MushroomSquad/repositories)
 [![Projects](https://img.shields.io/badge/Organization_Projects-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/MushroomSquad/projects)
+
+### 📊 Languages we use most
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MushroomSquad&layout=compact&theme=dark&count_private=false&include_orgs=true)](https://github.com/MushroomSquad)
   
 </div>
 
