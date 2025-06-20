@@ -45,9 +45,13 @@ We're Python nerds who make web stuff. At **MushroomSquad**, we think good code 
 
 <div align="center">
   
-### 📈 Organization Activity
+### 📈 Organization Overview
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MushroomSquad&bg_color=0D1117&color=409ba5&line=409ba5&point=58A6FF&area=true&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MushroomSquad&theme=dark&background=0D1117&ring=409ba5&fire=409ba5&currStreakLabel=409ba5)](https://github.com/MushroomSquad)
+
+### 📊 Recent Activity
+  
+[![Recent Activity](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=409ba5&background=0D111700&center=true&vCenter=true&width=800&lines=Building+awesome+Python+tools+and+libraries;Contributing+to+open+source+projects;Creating+solutions+for+developers;Join+us+and+let's+code+together!)](https://github.com/MushroomSquad)
   
 ### 🏆 Repository Highlights
   
