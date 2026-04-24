@@ -64,8 +64,6 @@ An Aiogram template for Telegram bot projects. Comes with the folder structure a
 ![GitHub followers](https://img.shields.io/github/followers/MushroomSquad?style=for-the-badge&color=409ba5&labelColor=1a1a1a)
 ![GitHub stars](https://img.shields.io/github/stars/MushroomSquad?style=for-the-badge&color=409ba5&labelColor=1a1a1a)
 
-### Recent Activity
-
 [![Recent Activity](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=409ba5&background=0D111700&center=true&vCenter=true&width=800&lines=Building+Python+tools+and+libraries;Open+source%2C+no+pressure;Come+look+around)](https://github.com/MushroomSquad)
 
 ### Repository highlights
